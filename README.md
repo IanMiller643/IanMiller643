@@ -15,7 +15,7 @@
 
 <br>
 
-## 🎯 Projects
+## 🎯 Main Projects
 
 
 
