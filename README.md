@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-miller-ml643/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iansm643@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=IanMiller643&color=2E9EF7&style=flat&label=Profile+Views)
 
 </div>
 
