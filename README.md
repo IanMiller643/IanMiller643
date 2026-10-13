@@ -15,12 +15,6 @@
 
 <br>
 
-## 🎯 Main Projects
-
-
-
-
-
 ## 🛠️ Tech Stack
 
 **Languages**
