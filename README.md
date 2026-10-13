@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ian+Miller+%F0%9F%91%8B;Aspiring+Software+Engineer;Marcy+Lab+School+Student;Let's+Build+Something+Together" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ian+Miller+%F0%9F%91%8B;Software+Engineer;Let's+Build+Something+Together" alt="Typing SVG" />
 
 </div>
 
 ## 👨‍🏫 About Me
 
-- 🎓 Studying Software Engineering at the [Marcy Lab School](https://www.marcylabschool.org/)
+- 🎓 Full-Stack Software Engineer
 - 💻 Focused on building interactive applications that are as **functional** as they are **eye-pleasing**
 - 🤝 I believe the best code is written through collaboration — a lesson learned working on team-based projects that require thoughtful planning and communication
 - 🏙️ Born in Brooklyn → Raised in Brooklyn → Currently in Brooklyn
